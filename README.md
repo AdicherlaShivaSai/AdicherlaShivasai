@@ -60,7 +60,7 @@ Tech: React, Node.js, Express.js, PostgreSQL
 Tech: React, Express.js, MySQL  
 - Secure login and protected routes  
 - CRUD features for posts, comments, and likes  
-[Repository](https://github.com/AdicherlaShivaSai/FullStackApp) | [Live Demo](https://fullstackapp-client-wxyc.onrender.com/login)
+[Repository](https://github.com/AdicherlaShivaSai/FullStackApp) | [Live Demo](https://fullstackapp-client-wxyc.onrender.com/)
 
 
 ---
