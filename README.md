@@ -1,82 +1,78 @@
-# Hi 👋 I'm Shivasai Adicherla
+# Hi, I'm Shivasai Adicherla 👋
 
-🚀 Full Stack Developer | React • Node.js • PostgreSQL  
-🧠 Backend-focused engineer with strong Linux & API skills  
-📍 India | Open to opportunities
-
----
-
-## 👨‍💻 About Me
-- Full Stack Developer with hands-on experience building real-world web applications
-- Strong in backend development, REST APIs, authentication & databases
-- Comfortable working in **Linux environments** for development, deployment, and debugging
-- AWS Cloud Practitioner certified, exploring scalable system design
+Full Stack Developer with balanced frontend and backend experience  
+React • Node.js • PostgreSQL • Linux  
+India | Open to Software / Full-Stack Developer roles
 
 ---
 
-## 🛠 Tech Stack
-
-### Frontend
-- React.js, HTML, CSS, JavaScript
-- React Router, Axios, Tailwind / CSS
-
-### Backend
-- Node.js, Express.js
-- REST APIs, JWT Authentication, RBAC
-
-### Databases
-- PostgreSQL (Neon Serverless)
-- MongoDB, MySQL
-
-### Linux & DevOps
-- Linux (Ubuntu)
-- CLI, file permissions, process management
-- Git & GitHub
-- Docker (basics)
-- Deployment on Render / Cloud platforms
-
-### Tools & Cloud
-- AWS (Cloud Practitioner)
-- Clerk (Auth)
-- Cloudinary, Multer
-- Postman, VS Code
+## About Me
+- Full Stack Developer experienced in building and deploying real-world web applications
+- Comfortable working across frontend and backend, with practical exposure to APIs, authentication, and databases
+- Familiar with Linux environments for development, basic server tasks, and debugging
+- AWS Cloud Practitioner certified and continuously improving full-stack fundamentals
 
 ---
 
-## 🚀 Featured Projects
+## Technical Skills
 
-### 🔹 QuickAI – AI Powered Content Platform
-**Tech:** React, Node.js, Express, PostgreSQL, OpenAI  
-- Secure authentication & role-based access
-- AI text & image generation
-- Cloud media handling and API integrations  
-👉 Repository | 👉 Live Demo
+**Frontend:**  
+React.js, HTML, CSS, JavaScript, React Router
 
----
+**Backend:**  
+Node.js, Express.js, REST APIs, JWT Authentication
 
-### 🔹 GreenCart – Full Stack E-Commerce App
-**Tech:** React, Node.js, Express, PostgreSQL  
-- JWT-based authentication (Admin & User)
-- Payments, cart, orders, cloud image handling
-- Solved real-world issues like CORS & webhook failures  
-👉 Repository
+**Databases:**  
+PostgreSQL (Neon Serverless), MongoDB, MySQL
 
----
+**Linux & DevOps:**  
+Linux (Ubuntu), Command Line Basics, File Permissions  
+Git, GitHub, Docker (Basics), Cloud Deployment (Render)
 
-### 🔹 Full Stack Blog Application
-**Tech:** React, Express, MySQL  
-- Auth, protected routes, posts, comments & likes
-- Sequelize ORM and REST APIs  
-👉 Repository
+**Tools & Cloud:**  
+AWS, Clerk (Auth), Cloudinary, Multer, Postman, VS Code
 
 ---
 
-## 📊 GitHub Stats
-(Will auto-improve as you stay consistent)
+## Featured Projects
+
+**QuickAI – AI-Powered Content Generation Platform**  
+Tech: React, Node.js, Express.js, PostgreSQL  
+- Full-stack application with secure authentication and role-based access  
+- Integrated external APIs for AI-powered features  
+- Implemented cloud storage and deployment workflows  
+[Repository](https://github.com/AdicherlaShivaSai/QuickAI) | [Live Demo](https://quick-ai-ten-eta.vercel.app/)
+
 
 ---
 
-## 📫 Connect With Me
-- 📧 Email: shivasai7601@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/shivasai-adicherla-b9616a18a
-- 🌐 GitHub: https://github.com/AdicherlaShivaSai
+**GreenCart – Full Stack E-Commerce Application**  
+Tech: React, Node.js, Express.js, PostgreSQL  
+- Implemented user and admin authentication  
+- Built product, cart, and order workflows  
+- Addressed real-world issues such as CORS and token handling  
+[Repository](https://github.com/AdicherlaShivaSai/GreenCart) | [Live Demo](https://greencart-1-0zt6.onrender.com/)
+
+
+---
+
+**Full Stack Blog Application**  
+Tech: React, Express.js, MySQL  
+- Secure login and protected routes  
+- CRUD features for posts, comments, and likes  
+[Repository](https://github.com/AdicherlaShivaSai/FullStackApp) | [Live Demo](https://fullstackapp-client-wxyc.onrender.com/login)
+
+
+---
+
+## Currently Improving
+- Core full-stack concepts
+- Better API design practices
+- Linux usage for development and deployment
+
+---
+
+## Contact
+Email: shivasai7601@gmail.com  
+LinkedIn: https://linkedin.com/in/shivasai-adicherla-b9616a18a  
+GitHub: https://github.com/AdicherlaShivaSai
